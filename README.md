@@ -1,5 +1,12 @@
 ## Hi there 👋
-add
+- 🎓 I’m a third-year Electrical Engineering student at McMaster University  
+- ⚡ I’m passionate about ASIC design, verification, and embedded systems
+- 🔋 I’m a Low-Voltage Team Member on McMaster’s Formula Electric Team  
+
+### 🔗 Connect with Me
+- 🌐 Portfolio: https://sapnasuthar.com
+- 💼 LinkedIn: https://www.linkedin.com/in/sapnasuthar  
+
 <!--
 **sapnasuthar/sapnasuthar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
